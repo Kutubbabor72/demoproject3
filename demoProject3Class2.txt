@@ -1,0 +1,11 @@
+public class DemoProject3Class2 {
+
+public class main void (String [] args){
+
+System.out.println("this is our demoproject3 class 2
+ ");
+
+}
+
+
+}
